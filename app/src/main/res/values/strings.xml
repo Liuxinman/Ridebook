@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">xinman2-RideBook</string>
+
+    <!--used in ride detail-->
+    <string name="date_start">Date: </string>
+    <string name="time_start">Time: </string>
+    <string name="distance_start">Distance: </string>
+    <string name="distance_unit"> km</string>
+    <string name="avg_speed_start">Average Speed: </string>
+    <string name="avg_speed_unit"> km/h</string>
+    <string name="avg_cadence_start">Average Cadence: </string>
+    <string name="avg_cadence_unit"> r/min</string>
+    <string name="comment_start">Comment: </string>
+    <string name="comment_hint">up to 20 chars</string>
+    <string name="date_hint">yyyy-mm-dd</string>
+    <string name="time_hint">hh:mm</string>
+    <string name="distance_hint">non-negative decimal</string>
+    <string name="speed_hint">non-negative decimal</string>
+    <string name="cadence_hint">non-negative integer</string>
+    <string name="finish_button">Finish</string>
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+    <string name="cancel_edit">Cancel</string>
+
+    <!--used in total distance view-->
+    <string name="total_d_start">Total Distance: </string>
+
+
+    <!--used in toolbar menu-->
+    <string name="add_ic">Add</string>
+
+    <!--used in add ride layout-->
+    <string name="add_for_sure">Add</string>
+    <string name="add_edit_reminder">Fields marked by * is required. Also, Please strictly follow the format. </string>
+    <string name="date_format_hint">*(yyyy-mm-dd)</string>
+    <string name="time_format_hint">*(hh:mm)</string>
+    <string name="cancel_add">Cancel</string>
+
+    <!--used in activity main-->
+    <string name="delete_hint">To delete a ride, please long click the ride.</string>
+</resources>
